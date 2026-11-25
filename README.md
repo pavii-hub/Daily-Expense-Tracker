@@ -1,3 +1,1 @@
-## Application Screenshot
-
-![Daily Expense Tracker](expense-tracker-demo.png)
+![Daily Expense Tracker](expense-tracker-demo.png.jpeg)
