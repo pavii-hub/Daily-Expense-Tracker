@@ -1,6 +1,8 @@
 ![Daily Expense Tracker](expense-tracker-demo.png.jpeg)
-#project title
-Daily Expense Tracker
+
+# Daily Expense Tracker
+
+A Python-based application to manage and track daily expenses.
 ## Project Description
 
 The Daily Expense Tracker is a Python-based application
