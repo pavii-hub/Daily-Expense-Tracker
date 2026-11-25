@@ -275,6 +275,7 @@ while True:
     elif choice == "8":
         monthly_budget()
 
+    
     elif choice == "9":
         print("\nThank you for using Daily Expense Tracker!")
         break
