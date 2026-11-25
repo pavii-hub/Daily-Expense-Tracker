@@ -50,3 +50,11 @@ Through this project, I practised:
 - File handling
 - JSON data storage
 -
+## Future Improvements
+
+- Develop a graphical user interface (GUI).
+- Add expense charts and visual reports.
+- Store data using an SQLite database.
+- Add monthly budget alerts.
+## Author
+PAVITHRA P R
